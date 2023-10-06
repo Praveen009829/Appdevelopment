@@ -1,0 +1,24 @@
+
+.banner-container {
+    background-color: rgba(0, 0, 0, 0.6);
+    background-image: url('https://i.pinimg.com/564x/01/0b/69/010b690ccdfded53f3917f7713489588.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 60vh;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    background-blend-mode: overlay;
+    align-items: center;
+}
+.clear {
+    background-color:transparent;
+    color: white;
+    font-size: 500%;
+}
+.quote {
+    font-size: larger;
+    color: white;
+    text-align: center;
+}
